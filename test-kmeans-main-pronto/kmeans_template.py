@@ -2,7 +2,8 @@
 Trabalho: Implementação manual do K-means — SOLUÇÃO DE REFERÊNCIA (uso do professor)
 Matemática Computacional - Prof. Dr. Alexsandro O. A.
 
-Nome(s): ____________________________________________
+Nome(s): Herman Fernandes De Figueiredo 20242130147
+         Artur Do Nascimento Braga 20231130038
 
 Regras:
 - Use apenas NumPy, pandas e Matplotlib.
